@@ -1,0 +1,2 @@
+# Functional-Paradigm
+Prolog programming
